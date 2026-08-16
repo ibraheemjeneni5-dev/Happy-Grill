@@ -89,7 +89,9 @@ PLAN = [
     ("Patty.png",          DISH, 82),
     ("fries.jpg",          DISH, 82),
     ("friesmix.png",       DISH, 82),
-    ("cheese.jpg",         DISH, 84),
+    # cheese.webp is drawn, not photographed — see tools/make-cheese.py. Only put
+    # cheese.jpg back here if a sharp replacement photo turns up.
+
     ("onionsmush.png",     DISH, 82),
     # -- drinks --
     ("cola.png",           CAN, 82),
